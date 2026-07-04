@@ -46,7 +46,8 @@ Internal platform designed to automate business workflows and support Oracle Res
 - Microsoft Graph integration
 - Custom build system
 
-> **Note:** The repository is private because it contains internal business logic and proprietary code. A public showcase describing the project architecture and features will be available soon.
+📁 **Project Showcase**
+https://github.com/cristianobracciani/toolsuite-showcase
 
 ---
 
