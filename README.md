@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Cristiano 👋
 
-<!--
-**cristianobracciani/cristianobracciani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on designing and building software solutions that automate business processes and solve real operational problems.
 
-Here are some ideas to get you started:
+Over the last 8+ years I've designed and developed web applications, business software, CRM systems and internal automation tools used to support real business operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is building Full Stack web applications with Node.js, Express, JavaScript and PHP.
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+JavaScript (ES6+), PHP, SQL, HTML5, CSS3
+
+**Backend**
+
+Node.js, Express.js, REST APIs, JWT Authentication
+
+**Frontend**
+
+Bootstrap, jQuery, Responsive Web Design
+
+**Databases**
+
+MySQL, MariaDB
+
+**Infrastructure**
+
+Linux, Git, GitHub, Nginx, Apache
+
+---
+
+## 🚀 Featured Project
+
+### ToolSuite
+
+Internal platform designed to automate business workflows and support Oracle Responsys campaign development.
+
+**Highlights**
+
+- 9 integrated tools
+- 30% estimated reduction in operational time
+- JWT Authentication
+- Microsoft Graph integration
+- Custom build system
+
+> **Note:** The repository is private because it contains internal business logic and proprietary code. A public showcase describing the project architecture and features will be available soon.
+
+---
+
+## 🌱 Currently Learning
+
+- Vue.js
+- TypeScript
+- Docker
+- Tailwind CSS
+- CI/CD
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn
+- 📧 cristiano.bracciani@gmail.com
